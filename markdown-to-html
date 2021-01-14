@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <title>Markdown to Html</title>
+    </head>
+
+    <body>
+    
+      <h1>Michael Zerghe</h1>
+
+      <em>"Yesterday you said tomorrow. Just do It." Nike</em>
+
+      <img src="https://www.facebook.com/photo?fbid=3396562473766842&set=a.229128922843556" alt="photo">
+
+
+
+    <h2>Always here to put a smile on your face !</h2>
+
+    <table>
+        <thead>
+            <tr>
+                <td>Information</td>
+                <td>Answers</td>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Birthday</td>
+                <td>12/12</td>
+            </tr>
+            <tr>
+                <td>Gender</td>
+                <td>Male</td>
+            </tr>
+            <tr>
+                <td>Favorite color</td>
+                <td>#000000</td>
+            </tr>
+            <tr>
+                <td>Favorite food</td>
+                <td>Pizza</td>
+            </tr>
+            <tr>
+                <td>Pinneapple on pizza</td>
+                <td><input type="checkbox" name="yes">Yes  <input type="checkbox" name="no">no</td>
+            </tr>
+        </tbody>
+    </table>
+
+<h2> Hobbies</h2>
+
+<ul>
+    <li>Sneakers</li>
+    <li>Music <ul>
+        <li>Rap</li>
+        <li>Hardstyle</li>
+    </ul>
+    </li>
+    <li>Video games</li>
+
+</ul>
+ 
+<h2>You can always count on me when</h2>
+ <p>If you need to talk to someone</p>
+
+ <h2> A funny story</h2>
+<p>I was once waiting at the bus stop and a priest came and tried to conviced me to convert to christianism. He told me that he knew i was lost and he wanted to help me.
+</p>
+ <h3> TL;DR </h3>
+<p>A priest tried to convert me.</p>
+
+
+<p><a href="https://naudar79.github.io/Challenge-markdown/">Arnaud Want</a> || Michael Zerghe||
+</p>
+    </body>
+</html>
