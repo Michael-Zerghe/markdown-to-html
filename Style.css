@@ -1,0 +1,50 @@
+body{
+    background-image: url(https://cdn.hipwallpaper.com/i/12/34/jzdShX.jpg);
+    color: white;
+    text-align: left;
+    margin-left: 300px;
+    font-size: 17px;
+}
+
+h1{
+    background-color: rgba(0, 0, 0, .2);
+    width: fit-content;
+    padding-right: 13px;
+    padding-left: 13px;
+    border-radius: 20px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+}
+
+em{
+    font-size: 20px;
+}
+
+h2{
+    background-color: rgba(0, 0, 0, .2);
+    width: fit-content;
+    padding-left: 13px;
+    border-radius: 20px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    padding-right: 13px;
+}
+
+table{
+    border: black solid 1px;
+    border-radius: 10px;
+    background-color: rgba(0, 0, 0, .2);
+    padding : 13px;    
+}
+
+#list{
+    background-color: rgba(0, 0, 0, .2);
+    width: fit-content;
+    padding: 15px;
+    border-radius: 10px;
+    border: black solid 1px;
+}
+
+ul{
+    list-style-type: square;
+}
